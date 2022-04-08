@@ -81,7 +81,6 @@ https://meeting.tencent.com/dm/6aYJZwkY546S
 >
 >
 >- 数据库表结构  
->>- 项目地址：[sql]
+>>- 项目地址：[sql](https://github.com/hangdra/GroupBuy/blob/main/tabel_sql/group_buy.sql)
 
 
-[sql]:(https://github.com/hangdra/GroupBuy/blob/main/tabel_sql/group_buy.sql)
